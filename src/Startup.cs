@@ -23,7 +23,7 @@ namespace src
  
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use thi
+ 
         public void ConfigureServices(IServiceCollection services)
         {
 
